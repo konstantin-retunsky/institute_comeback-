@@ -1,0 +1,16 @@
+/home/bogeyman/learning/c#/3_Percentages/Percentages/Percentages/bin/Debug/net5.0/Percentages
+/home/bogeyman/learning/c#/3_Percentages/Percentages/Percentages/bin/Debug/net5.0/Percentages.deps.json
+/home/bogeyman/learning/c#/3_Percentages/Percentages/Percentages/bin/Debug/net5.0/Percentages.runtimeconfig.json
+/home/bogeyman/learning/c#/3_Percentages/Percentages/Percentages/bin/Debug/net5.0/Percentages.runtimeconfig.dev.json
+/home/bogeyman/learning/c#/3_Percentages/Percentages/Percentages/bin/Debug/net5.0/Percentages.dll
+/home/bogeyman/learning/c#/3_Percentages/Percentages/Percentages/bin/Debug/net5.0/ref/Percentages.dll
+/home/bogeyman/learning/c#/3_Percentages/Percentages/Percentages/bin/Debug/net5.0/Percentages.pdb
+/home/bogeyman/learning/c#/3_Percentages/Percentages/Percentages/obj/Debug/net5.0/Percentages.csproj.AssemblyReference.cache
+/home/bogeyman/learning/c#/3_Percentages/Percentages/Percentages/obj/Debug/net5.0/Percentages.GeneratedMSBuildEditorConfig.editorconfig
+/home/bogeyman/learning/c#/3_Percentages/Percentages/Percentages/obj/Debug/net5.0/Percentages.AssemblyInfoInputs.cache
+/home/bogeyman/learning/c#/3_Percentages/Percentages/Percentages/obj/Debug/net5.0/Percentages.AssemblyInfo.cs
+/home/bogeyman/learning/c#/3_Percentages/Percentages/Percentages/obj/Debug/net5.0/Percentages.csproj.CoreCompileInputs.cache
+/home/bogeyman/learning/c#/3_Percentages/Percentages/Percentages/obj/Debug/net5.0/Percentages.dll
+/home/bogeyman/learning/c#/3_Percentages/Percentages/Percentages/obj/Debug/net5.0/ref/Percentages.dll
+/home/bogeyman/learning/c#/3_Percentages/Percentages/Percentages/obj/Debug/net5.0/Percentages.pdb
+/home/bogeyman/learning/c#/3_Percentages/Percentages/Percentages/obj/Debug/net5.0/Percentages.genruntimeconfig.cache

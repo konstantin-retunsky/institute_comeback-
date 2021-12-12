@@ -1,0 +1,9 @@
+/home/bogeyman/learning/c#/2_Billard/bin/Debug/Billiards.exe.config
+/home/bogeyman/learning/c#/2_Billard/bin/Debug/Billiards.exe
+/home/bogeyman/learning/c#/2_Billard/bin/Debug/Billiards.pdb
+/home/bogeyman/learning/c#/2_Billard/bin/Debug/TestingRoom.dll
+/home/bogeyman/learning/c#/2_Billard/obj/Debug/Billiards.csprojAssemblyReference.cache
+/home/bogeyman/learning/c#/2_Billard/obj/Debug/Billiards.csproj.CoreCompileInputs.cache
+/home/bogeyman/learning/c#/2_Billard/obj/Debug/Billiards.csproj.CopyComplete
+/home/bogeyman/learning/c#/2_Billard/obj/Debug/Billiards.exe
+/home/bogeyman/learning/c#/2_Billard/obj/Debug/Billiards.pdb
