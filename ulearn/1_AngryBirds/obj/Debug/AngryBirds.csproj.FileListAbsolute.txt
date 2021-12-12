@@ -1,9 +1,0 @@
-/home/bogeyman/learning/c#/1_AngryBirds/bin/Debug/AngryBirds.exe.config
-/home/bogeyman/learning/c#/1_AngryBirds/bin/Debug/AngryBirds.exe
-/home/bogeyman/learning/c#/1_AngryBirds/bin/Debug/AngryBirds.pdb
-/home/bogeyman/learning/c#/1_AngryBirds/bin/Debug/TestingRoom.dll
-/home/bogeyman/learning/c#/1_AngryBirds/obj/Debug/AngryBirds.csprojAssemblyReference.cache
-/home/bogeyman/learning/c#/1_AngryBirds/obj/Debug/AngryBirds.csproj.CoreCompileInputs.cache
-/home/bogeyman/learning/c#/1_AngryBirds/obj/Debug/AngryBirds.csproj.CopyComplete
-/home/bogeyman/learning/c#/1_AngryBirds/obj/Debug/AngryBirds.exe
-/home/bogeyman/learning/c#/1_AngryBirds/obj/Debug/AngryBirds.pdb
