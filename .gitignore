@@ -1,3 +1,4 @@
 *.mp4
 old_institute
 applied_methods_data_processing/lecture
+*/*.idea
