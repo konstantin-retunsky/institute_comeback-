@@ -1,0 +1,9 @@
+/home/bogeyman/institute/ulearn/branching/Rectangles/bin/Debug/Rectangles.exe.config
+/home/bogeyman/institute/ulearn/branching/Rectangles/bin/Debug/Rectangles.exe
+/home/bogeyman/institute/ulearn/branching/Rectangles/bin/Debug/Rectangles.pdb
+/home/bogeyman/institute/ulearn/branching/Rectangles/bin/Debug/TestingRoom.dll
+/home/bogeyman/institute/ulearn/branching/Rectangles/obj/Debug/Rectangles.csprojAssemblyReference.cache
+/home/bogeyman/institute/ulearn/branching/Rectangles/obj/Debug/Rectangles.csproj.CoreCompileInputs.cache
+/home/bogeyman/institute/ulearn/branching/Rectangles/obj/Debug/Rectangles.csproj.CopyComplete
+/home/bogeyman/institute/ulearn/branching/Rectangles/obj/Debug/Rectangles.exe
+/home/bogeyman/institute/ulearn/branching/Rectangles/obj/Debug/Rectangles.pdb
